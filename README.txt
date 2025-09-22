@@ -1,0 +1,1 @@
+Se Eligio Bootstrap para la realizacion del layout
